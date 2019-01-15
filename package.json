@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-grpc-socketio-proxy-load-generator",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "nodejs-grpc-socketio-proxy": "git+https://github.com/vitche/nodejs-grpc-socketio-proxy.git"
+  }
+}
